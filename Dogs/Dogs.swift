@@ -22,6 +22,8 @@ public final class DogsInFarm {
 
     public var all: [Types] = [.germanShepherd, .labrador, .golden, .husky]
 
+    public init() {}
+
     public func speak() -> String {
 
         return "BARK! BARK!"
