@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Dogs.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2ErYvdiTG38mg2Ku+zqMJkHm8VI=
+		c1vdcsxbQcpKPY8anajg1/Yi9cs=
 		</data>
 		<key>Modules/Dogs.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YsYFIz9aSmdwf1zmJS4alTtF5dM=
+		HpscbNOgXCkqwEPd1zkQ3EZkTGE=
 		</data>
 		<key>Modules/Dogs.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Dogs.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		2ErYvdiTG38mg2Ku+zqMJkHm8VI=
+		c1vdcsxbQcpKPY8anajg1/Yi9cs=
 		</data>
 		<key>Modules/Dogs.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		YsYFIz9aSmdwf1zmJS4alTtF5dM=
+		HpscbNOgXCkqwEPd1zkQ3EZkTGE=
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3DU1HsyCn6AnKWm5jpC7noMzz98=
+		R/yoclO2dsu6GEZpSKGIeCtFQZk=
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dCai9znKSn613+9HM2gerRFOxT4=
+		GbLIjyAyEnpjudroIWhIAcNL8zk=
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		3DU1HsyCn6AnKWm5jpC7noMzz98=
+		R/yoclO2dsu6GEZpSKGIeCtFQZk=
 		</data>
 		<key>Modules/Dogs.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		dCai9znKSn613+9HM2gerRFOxT4=
+		GbLIjyAyEnpjudroIWhIAcNL8zk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,14 +96,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKw4AM2laKfpyKG4YTDcRJ6hHTA0KfHXHc5jo8TkcV8=
+			ztJ+IO37JA3HJ8Nuxy+S113nFSxJxDYYrW8MnsP4BVU=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fQhDlyRuc0PCy6vhIz7Ngk+xTmbhQXxBKDvHqKpDyw=
+			LM4G20pwJTzmjYZ4t3ufGViaSZ1ZTWlTyogPC7kZFl8=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +117,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKw4AM2laKfpyKG4YTDcRJ6hHTA0KfHXHc5jo8TkcV8=
+			ztJ+IO37JA3HJ8Nuxy+S113nFSxJxDYYrW8MnsP4BVU=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fQhDlyRuc0PCy6vhIz7Ngk+xTmbhQXxBKDvHqKpDyw=
+			LM4G20pwJTzmjYZ4t3ufGViaSZ1ZTWlTyogPC7kZFl8=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rT8nT4j1w8iCmEmEep0bs7UxAiugMozNrXUHJw8UwuE=
+			qM8I8WYchLCe4e2mF1ASaWCLjQsBw7IdK5ZHbeRBkt0=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+PqAss5c8ARTcfMEOJxoK62ouVEPComujbbjrguDDU=
+			HLNk0PP4SR3SiZJIcWfkxqhk6IBQ+Uz+VAbVWPkqszg=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rT8nT4j1w8iCmEmEep0bs7UxAiugMozNrXUHJw8UwuE=
+			qM8I8WYchLCe4e2mF1ASaWCLjQsBw7IdK5ZHbeRBkt0=
 			</data>
 		</dict>
 		<key>Modules/Dogs.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N+PqAss5c8ARTcfMEOJxoK62ouVEPComujbbjrguDDU=
+			HLNk0PP4SR3SiZJIcWfkxqhk6IBQ+Uz+VAbVWPkqszg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

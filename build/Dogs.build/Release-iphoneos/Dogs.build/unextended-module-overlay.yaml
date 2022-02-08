@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/yusuf/Developer/Personal/FrameworkPractice/Dogs/build/Release-iphoneos/Dogs.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/yusuf/Developer/Personal/FrameworkPractice/Dogs/build/Dogs.build/Release-iphoneos/Dogs.build/unextended-module.modulemap",
+    }]
+  }]
+}

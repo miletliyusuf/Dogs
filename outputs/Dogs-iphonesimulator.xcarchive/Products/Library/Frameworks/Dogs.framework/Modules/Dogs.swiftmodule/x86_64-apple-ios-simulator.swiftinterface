@@ -5,21 +5,21 @@
 import Foundation
 import Swift
 import _Concurrency
-@_hasMissingDesignatedInitializers final public class Dogs {
+@_hasMissingDesignatedInitializers final public class DogsInFarm {
   public enum Types {
     case germanShepherd
     case labrador
     case golden
     case husky
-    public static func == (a: Dogs.Dogs.Types, b: Dogs.Dogs.Types) -> Swift.Bool
+    public static func == (a: Dogs.DogsInFarm.Types, b: Dogs.DogsInFarm.Types) -> Swift.Bool
     public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
   }
-  final public var all: [Dogs.Dogs.Types]
+  final public var all: [Dogs.DogsInFarm.Types]
   final public func speak() -> Swift.String
   @objc deinit
 }
-extension Dogs.Dogs.Types : Swift.Equatable {}
-extension Dogs.Dogs.Types : Swift.Hashable {}
+extension Dogs.DogsInFarm.Types : Swift.Equatable {}
+extension Dogs.DogsInFarm.Types : Swift.Hashable {}
