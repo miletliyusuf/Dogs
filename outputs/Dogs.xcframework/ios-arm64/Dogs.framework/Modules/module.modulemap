@@ -1,0 +1,11 @@
+framework module Dogs {
+  umbrella header "Dogs.h"
+
+  export *
+  module * { export * }
+}
+
+module Dogs.Swift {
+    header "Dogs-Swift.h"
+    requires objc
+}
