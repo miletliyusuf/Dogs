@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
-options: "4221e7de1c1d0266d2b36889bd10f2bc9ee55875ec293f3af458d6391e6e8bef"
-build_start_time: [1644311167, 807898998]
-build_end_time: [1644311171, 16415119]
-inputs:
-  "/Users/yusuf/Developer/Personal/FrameworkPractice/Dogs/Dogs/Dogs.swift": [1644310772, 242563724]

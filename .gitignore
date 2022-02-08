@@ -1,2 +1,4 @@
 Dogs/*
 Dogs.xcodeproj
+build/*
+export.sh

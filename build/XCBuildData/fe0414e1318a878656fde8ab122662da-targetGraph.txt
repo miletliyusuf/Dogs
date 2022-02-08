@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Dogs in Dogs, no dependencies
