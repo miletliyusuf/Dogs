@@ -1,0 +1,25 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target x86_64-apple-ios15.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Dogs
+@_exported import Dogs
+import Foundation
+import Swift
+import _Concurrency
+@_hasMissingDesignatedInitializers final public class Dogs {
+  public enum Types {
+    case germanShepherd
+    case labrador
+    case golden
+    case husky
+    public static func == (a: Dogs.Dogs.Types, b: Dogs.Dogs.Types) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  final public var all: [Dogs.Dogs.Types]
+  final public func speak() -> Swift.String
+  @objc deinit
+}
+extension Dogs.Dogs.Types : Swift.Equatable {}
+extension Dogs.Dogs.Types : Swift.Hashable {}
