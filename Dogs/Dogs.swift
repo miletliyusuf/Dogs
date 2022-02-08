@@ -10,7 +10,7 @@
 
 import Foundation
 
-public final class Dogs {
+public final class DogsInFarm {
 
     public enum Types {
 
