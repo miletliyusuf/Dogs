@@ -2,3 +2,5 @@ Dogs/*
 Dogs.xcodeproj
 build/*
 export.sh
+outputs/Dogs-iphoneos.xcarchive
+outputs/Dogs-iphonesimulator.xcarchive
