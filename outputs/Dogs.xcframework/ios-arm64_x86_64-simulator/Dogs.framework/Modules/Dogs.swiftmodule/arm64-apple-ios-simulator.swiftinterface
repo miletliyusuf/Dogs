@@ -20,6 +20,7 @@ final public class DogsInFarm {
   final public var all: [Dogs.DogsInFarm.Types]
   public init()
   final public func speak() -> Swift.String
+  final public func footNumber() -> Swift.Int
   @objc deinit
 }
 extension Dogs.DogsInFarm.Types : Swift.Equatable {}
